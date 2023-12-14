@@ -70,7 +70,8 @@ This section explains how to compile and run a JAVA application from the command
 |![Primary](https://github.com/learnwithfair/java/blob/main/images/overview.png)|
 |Advances|
 |![Advances](https://github.com/learnwithfair/java/blob/main/images/advance.png)|
-
+|JDBC, Socket, Thread|
+|![Advances](https://github.com/learnwithfair/java/blob/main/images/jdbc-socket-thread.png)|
 
 
 
